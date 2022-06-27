@@ -1,0 +1,46 @@
+.wrapper{
+  background-color: rgb(16, 123, 123);
+  margin: 5px 5px;
+  padding: 16px 20px;
+  overflow: hidden;
+}
+
+.wrap{
+  background-color: blueviolet;
+  /* width: 100%;
+  height: auto; */
+  
+  
+}
+.wrap a{
+  color: aliceblue;
+  font-size: 1em;
+  overflow: hidden;
+  
+}
+
+.wrap2 img{
+  float: right;
+  padding-right: 10px;
+  
+  
+}
+.wrap1, .wrap2{
+
+  width: 50%;
+}
+.wrap1 {
+  float: left;
+}
+.wrap2{
+  float: right;
+}
+.wrap1 a{
+  text-decoration: none;
+}
+.wrap1 li{
+  list-style: none;
+  
+}
+
+
