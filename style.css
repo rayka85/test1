@@ -28,6 +28,7 @@
 .wrap1, .wrap2{
 
   width: 50%;
+  height: 400px;
 }
 .wrap1 {
   float: left;
@@ -35,12 +36,12 @@
 .wrap2{
   float: right;
 }
-.wrap1 a{
-  text-decoration: none;
-}
+
 .wrap1 li{
   list-style: none;
-  
+  position: relative;
+  padding-left: 5px;
+  padding-top: 20px; 
 }
 
 
